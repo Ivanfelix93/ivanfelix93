@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá! eu sou o Ivan Felix
 
-<!--
-**Ivanfelix93/ivanfelix93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Estudando: Analise e desenvolvimento de sistemas 
+- 😄 Pronouns: ele/dele
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/ivanfelix93">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanfelix93&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfelix93&layout=compact&langs_count=7&theme=great-gatsby"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="ivan-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="ivan-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ivan-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="ivan-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="ivan-algoritimo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" />
+</div>
+
+##
+
+<div> 
+  
+ <a href="https://www.linkedin.com/in/ivan-felix-2b1901128" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "felix.ivan.93@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
+</div>
