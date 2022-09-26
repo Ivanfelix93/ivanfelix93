@@ -1,7 +1,6 @@
 ## Olá! eu sou o Ivan Felix
 
 - 📫 Estudando: Analise e desenvolvimento de sistemas 
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/ivanfelix93">
