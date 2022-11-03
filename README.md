@@ -3,7 +3,7 @@
 - 📫 Estudando: Analise e desenvolvimento de sistemas 
 
 <div align="center">
-  <a href="https://github.com/ivanfelix93">
+  <a href="https://github.com/Ivanfelix93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivanfelix93&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanfelix93&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
