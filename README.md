@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="ivan-c++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="ivan-c++" height="30" width="40" src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white />
   <img align="center" alt="ivan-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ivan-canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="ivan-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
