@@ -13,7 +13,7 @@
 
 <div style="display: inline_block"><br>
   
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ivanfelix93&bg_color=080808&color=9c9c9c&line=e6c10a&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
    ### Meus Conhecimentos:
   <img align="center" alt="ivan-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
