@@ -1,8 +1,8 @@
 # Olá! eu sou o Ivan Felix, Densenvolvedor back-end
 
  * 📚 Atualmente estudando Analise e desnvolvimento de sistemas 1/2
- * 📖 Conhecimento em C#
- * 👨‍💻 Estudando python proficional 
+ * 📖 Conhecimento em C++
+ * 👨‍💻 Estudando python proficional e C# 
  
 
 <div align="center">
